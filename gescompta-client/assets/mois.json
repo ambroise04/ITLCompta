@@ -1,0 +1,50 @@
+[ 
+      {
+          "chiffre": 1, 
+          "lettre": "Janvier"
+      }, 
+      {
+          "chiffre": 2, 
+          "lettre": "Février"
+      }, 
+      {
+          "chiffre": 3, 
+          "lettre": "Mars"
+      },
+      {
+          "chiffre": 4, 
+          "lettre": "Avril"
+      },
+      {
+          "chiffre": 5, 
+          "lettre": "Mai"
+      },
+      {
+          "chiffre": 6, 
+          "lettre": "Juin"
+      },
+      {
+          "chiffre": 7, 
+          "lettre": "Juillet"
+      },
+      {
+          "chiffre": 8, 
+          "lettre": "Août"
+      },
+      {
+          "chiffre": 9, 
+          "lettre": "Septembre"
+      },
+      {
+          "chiffre": 10, 
+          "lettre": "Octobre"
+      },
+      {
+          "chiffre": 11, 
+          "lettre": "Novembre"
+      },
+      {
+          "chiffre": 12, 
+          "lettre": "Décembre"
+      }
+] 
